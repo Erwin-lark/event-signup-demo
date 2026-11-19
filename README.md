@@ -9,6 +9,12 @@
 - 提交后：成功页 + 模拟确认邮件提示（不接真实邮件服务）
 - 风格：大胆色块、大标题、活动海报感
 
+## 线上地址
+
+https://erwin-lark.github.io/event-signup-demo/
+
+仓库：https://github.com/Erwin-lark/event-signup-demo
+
 ## 本地预览
 
 ```bash
